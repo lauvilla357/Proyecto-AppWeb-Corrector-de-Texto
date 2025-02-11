@@ -53,3 +53,7 @@ La aplicación utiliza un modelo de regresión lineal entrenado con un dataframe
    python app.py
 
   Ahora la aplicación debería estar disponible en la siguiente URL en tu navegador: http://127.0.0.1:5000/
+
+### Muestrario de imágenes
+
+Se provee una carpeta bajo el nombre de "imagenes" para proporcionar una muestra de la aplicación y el aspecto de la interfaz.
