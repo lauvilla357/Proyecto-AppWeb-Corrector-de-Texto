@@ -15,12 +15,6 @@ La aplicación utiliza un modelo de regresión lineal entrenado con un dataframe
 - Backend en Flask: El modelo se ejecuta en el servidor Flask, haciendo la aplicación interactiva.
 - Visualización web: La puntuación es mostrada en la interfaz web en tiempo real.
 
-### Tecnologías utilizadas:
-
-- Flask para el backend.
-- Scikit-learn para la regresión lineal y procesamiento de datos.
-- HTML, CSS y JavaScript para la interfaz.
-
 ### Tecnologías Utilizadas
 
 - Flask: Framework web para crear aplicaciones web ligeras y rápidas.
